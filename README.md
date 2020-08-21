@@ -3,7 +3,7 @@
 ## Stack
 
 * Program : this is program creating new stack
-java```
+```java
 class A {
 
 }
