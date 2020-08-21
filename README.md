@@ -2,4 +2,4 @@
 
 ## Stack
 
-* Program1 : this is program creating new stack
+* Program : this is program creating new stack
